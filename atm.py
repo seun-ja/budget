@@ -1,7 +1,7 @@
 import random
 
 database = {
-   'seyi': ['Seyi','Bob','seyi@seyi.com','passwordSeyi', 0]
+   'seyi': ['Seyi','Bob','seyi@seyi.com','passwordSeyi', 0, 3446666777]
 }
 
 def init():
